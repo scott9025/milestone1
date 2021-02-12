@@ -1,0 +1,12 @@
+---
+title: "Milestone1"
+author: "Scott Bek"
+date: '2021 2 13 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+For the project, I am thinking about exploring the relationship between the COVID-19 death rate and the air pollution level. My initial expectation is that the two variables would have a positive correlation. Similar study had already been conducted in Northern Italy in which the study found a positive correlation between the two. Thus, I would like to focus on other countries such as US or China. Dataverse has some nice data on both the Covid cases and the air pollution level in China. I would continue to search data for other countries since I haven't decided on which country I want to focus on.
